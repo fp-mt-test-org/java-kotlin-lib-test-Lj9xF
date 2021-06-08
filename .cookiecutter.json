@@ -1,0 +1,36 @@
+{
+    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/ddb65a82-ce77-4b4e-90b9-d96aedbf432b/template",
+    "access": "fp-mt",
+    "artifact_id": "java-kotlin-lib-test-Lj9xF",
+    "component_id": "java-kotlin-lib-test-Lj9xF",
+    "description": "This project was created from the template-java-kotlin-library template.",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/java-kotlin-lib-test-Lj9xF",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-Lj9xF",
+            "name": "java-kotlin-lib-test-Lj9xF",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/java-kotlin-lib-test-Lj9xF",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "javakotlinlibtestLj9xF",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-Lj9xF"
+}
